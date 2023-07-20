@@ -1,6 +1,6 @@
 # Blue Monkey Makes Lite Express API starter 
 
-The objective of this boilerplate is to function as a jump start to writing any API services. 
+The objective of this boilerplate is to function as a jump start to writing API services. 
 
 ## Structure 
 
